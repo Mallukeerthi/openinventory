@@ -123,4 +123,6 @@ To add new models or detection categories:
 2. Update the MODEL_INFO array in detect_and_open.py
 3. Add corresponding information in the getClassInformation function in detection.js
 4. Update the DETECTION_SEARCH_PROMPTS in image_to_query.js
-5. Update the DETECTION_CONTENT_MAP in detection_content.js 
+5. Update the DETECTION_CONTENT_MAP in detection_content.js
+
+***************************** if u want to access my pt file u can ,from here https://drive.google.com/drive/folders/1qJvuNoP2fdGil4gwZU2x4qXVuNr9Uivx?usp=sharing ***************************
