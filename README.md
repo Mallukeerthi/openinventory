@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FarmKnowledge
 
 A modern web application providing farming information and resources in multiple languages.
@@ -58,3 +59,6 @@ The site includes information about:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+# openinventory
+>>>>>>> 1e28c19d913c14e79a6e22d20cc4f43d1c83707e
